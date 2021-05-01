@@ -23,9 +23,9 @@ The final dataset is provided below:
 ![image](https://user-images.githubusercontent.com/61320147/116779300-ee003100-aa8e-11eb-90ca-9de7c3bffe62.png)
 
 ## Results
-Train accuracy=98%
-Cross-Validation accuracy=97%
-Test accuracy=97-96%
+Train accuracy=98% \
+Cross-Validation accuracy=97% \
+Test accuracy=97-96% 
 
 Results on Test Dataset: \
 ![image](https://user-images.githubusercontent.com/61320147/116779511-002e9f00-aa90-11eb-8f4b-e3003b525ab1.png)
